@@ -1,5 +1,9 @@
 Test feature
 
+<<<<<<< HEAD
 Modifying FeatureOne
 
 More Lines
+=======
+FEature one modification
+>>>>>>> featureOne
